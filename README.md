@@ -162,6 +162,3 @@ Frontend is modular with:
 * **Frontend:** Vercel 
 * **Backend:** Render 
 * Set production `VITE_API_URL` for frontend.
-
-
-If you want a **shorter**, **longer**, or **more recruiter-friendly** version, tell me — I can tailor it perfectly for your submission.

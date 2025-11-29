@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* Optional app-level overrides */
+html, body, #root {
+  height: 100%;
+}
+
+:root {
+  --bg: #0f172a;
+}
